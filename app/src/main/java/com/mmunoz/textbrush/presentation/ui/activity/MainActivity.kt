@@ -1,4 +1,4 @@
-package com.mmunoz.textbrush.presentation.activity
+package com.mmunoz.textbrush.presentation.ui.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

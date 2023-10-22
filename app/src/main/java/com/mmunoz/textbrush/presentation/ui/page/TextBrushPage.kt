@@ -104,8 +104,6 @@ internal fun TextBrushPage(modifier: Modifier = Modifier) {
     }
 }
 
-
-
 @Preview(showBackground = true)
 @Composable
 internal fun TextBrushPagePreview() {
