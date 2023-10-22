@@ -1,6 +1,8 @@
 # Text Brush Challenge Resolution with Jetpack Compose
 
-The Text Brush Challenge is a test of your attention to detail and craftsmanship, as it requires to create a drawing tool that allows users to draw text along a custom path. This README will guide you through the resolution of the challenge using Jetpack Compose.
+The Text Brush Challenge is a test that requires to create a drawing tool that allows users to draw text along a custom path. This README will guide you through the resolution of the challenge using Jetpack Compose.
+
+![alt text](https://github.com/misaelemc/TextBrush/blob/main/demo-picture.png?raw=true)
 
 ## Challenge Overview
 
