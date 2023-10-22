@@ -20,7 +20,11 @@ class TextBrushDrawController internal constructor(
 ) {
 
     private val _redoPathList = mutableStateListOf<PathItem>()
+    internal val redoPathList: SnapshotStateList<PathItem> = _redoPathList
+
     private val _undoPathList = mutableStateListOf<PathItem>()
+    internal val undoPathList: SnapshotStateList<PathItem> = _undoPathList
+
     private val _linePathList = mutableStateListOf<PathItem>()
 
     internal val pathList: SnapshotStateList<PathItem> = _linePathList
