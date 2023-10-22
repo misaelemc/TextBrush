@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Brush</string>
+    <string name="text_brush_title">Text brush title</string>
+    <string name="text_brush_input_title">Set a title to draw</string>
+    <string name="save_text">Save</string>
+    <string name="dismiss_text">Dismiss</string>
+</resources>
