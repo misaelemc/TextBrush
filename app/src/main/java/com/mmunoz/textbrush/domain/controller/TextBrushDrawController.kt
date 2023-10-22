@@ -1,11 +1,11 @@
-package com.mmunoz.textbrush.draw
+package com.mmunoz.textbrush.domain.controller
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.snapshots.SnapshotStateList
 import androidx.compose.ui.geometry.Offset
-import com.mmunoz.textbrush.draw.model.PathItem
+import com.mmunoz.textbrush.domain.model.PathItem
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.MutableStateFlow

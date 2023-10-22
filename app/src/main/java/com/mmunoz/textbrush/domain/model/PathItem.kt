@@ -1,4 +1,4 @@
-package com.mmunoz.textbrush.draw.model
+package com.mmunoz.textbrush.domain.model
 
 import androidx.compose.ui.geometry.Offset
 

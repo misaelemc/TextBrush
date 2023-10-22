@@ -1,4 +1,4 @@
-package com.mmunoz.textbrush.draw.extension
+package com.mmunoz.textbrush.presentation.extension
 
 import android.graphics.Matrix
 import android.graphics.PathMeasure

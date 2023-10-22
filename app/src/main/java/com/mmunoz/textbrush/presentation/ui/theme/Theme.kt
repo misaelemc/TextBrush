@@ -1,4 +1,4 @@
-package com.mmunoz.textbrush.ui.theme
+package com.mmunoz.textbrush.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
